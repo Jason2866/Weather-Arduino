@@ -5,3 +5,4 @@
 .vscode/launch.json
 .vscode/ipch
 src/owm_credentials.h
+.DS_Store
